@@ -28,7 +28,7 @@ Professional Experience
   * Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids  
   * Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques  
 
-*__Graduate Research Assistant- Reinforcement Learning__  
+* __Graduate Research Assistant- Reinforcement Learning__  
   Center for Management and Technical Entrepreneurship	(2019-2021)  
   * Developed Hierarchical Reinforcement Learning methods for cooperation and competition with Multi-Agent Learning using CapsNet and ConvNet  
   * Implementation and improvement of policy gradient algorithms such as Deep Actor-Critic, A2C, DDPG and PPO for financial data and analysis  
