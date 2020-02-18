@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "CSC258- Computer Organization"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Department of Computer Science, University of Toronto  Winter-2020"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
