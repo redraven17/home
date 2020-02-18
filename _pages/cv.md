@@ -42,14 +42,14 @@ Professionall Experience
   
 Skills and Competencies
 ======
-Deep Learning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cloud Computing  
-Reinforcement Learning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Game Theory  
-Artificial Intelligence	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asset Handling  
-Multi-Agent Learning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Image Processing  
-Business Intelligence	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dataset Management  
-Strategy Planning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actionable Analytics  
-Risk Management	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financial Modelling  
-Data Analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Management Consulting  
+|Deep Learning|Cloud Computing|  
+|Reinforcement Learning|Game Theory|  
+|Artificial Intelligence|Asset Handling|  
+|Multi-Agent Learning|Image Processing|  
+|Business Intelligence|Dataset Management|  
+|Strategy Planning|Actionable Analytics|  
+|Risk Management|Financial Modelling|  
+|Data Analysis|Management Consulting|  
 
 
 Publications
