@@ -42,7 +42,7 @@ Professionall Experience
   
 Skills and Competencies
 ======
-|:----------------------|------:|
+|:----------------------|------:|  
 |Deep Learning          |Cloud Computing|  
 |Reinforcement Learning |Game Theory|  
 |Artificial Intelligence|Asset Handling|  
