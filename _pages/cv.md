@@ -11,12 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* M.A.Sc, 	2019-2021
+  Electrical and Computer Engineering
+  University of Toronto, Canada.
+
+* B.Tech, 	2015-2019
+  Electronics and Communication Engineering
+  Amity University, India.
 
 Work experience
 ======
+
+* Reinforcement Learning Developer
+  RBC Capital Markets, Toronto                        2020-present
+  •	Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids
+  •	Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques 
+
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
