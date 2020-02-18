@@ -53,25 +53,60 @@ Skills and Competencies
 |Risk Management        |Financial Modelling  |  
 |Data Analysis          |Management Consulting|  
 
+Tools and Languages
+======
+
+|            |                       |  
+|:-----------|----------------------:|  
+|Python      |	Data Analysis Toolbox|  
+|PyTorch     |	               MATLAB|  
+|Keras       |	                 HTML|  
+|AWS         |	                  SQL|  
+|Tensorflow  |	     Google Analytics|  
+|Scikit-learn|       Microsoft Office|  
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+_Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory_ 
+Computers And Electrical Engineering, Elsevier, Vol. 78, pp.493-503, 2019. [(link)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
+
+_Convolutional Neural Network Array for Sign Language Recognition using Wearable IMUs_  
+5th International Conference on Signal Processing and Integrated Networks, SPIN 2019, IEEE. [(link)](https://ieeexplore.ieee.org/document/8711745)  
+
+_Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture_  
+International Conference on Communication and Computational Intelligence, 2018, IEEE.   
+
+_Classification of Hand Gestures from Wearable IMUs using Deep Neural Network_  
+2nd International Conference on Inventive Communication and Computational Technologies, 2018, IEEE [(link)](https://ieeexplore.ieee.org/document/8473301)
+
+_Activity Detection from Wearable Electromyogram Sensors using Hidden Markov Model_  
+2nd International Conference on Computing Methodologies and Communication, 2018, IEEE [(link)](https://ieeexplore.ieee.org/document/8488070)
+
+Academic Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+* InvestApp: Investing Made Easy  
+Worked in a team of 4+ members to develop a real-time investment application connecting 7+ countries for project funding via seed finance, joint ventures and fund managers. Actively conducted sessions, developed financial models, augmented business macroprocesses and proposed pitch solutions for tackling transaction regulations and making offshore trade feasible.
+* Faceboard: Real-Time Image Generation from Deep Generative Models using AWS Lambda and Eventbridge  
+REST API capable of reconstructing images in real-time from CAEs and GANs deployed on serverless Lambda and scheduled for background runs using Eventbridge.
+* Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory  
+Construction of 1D Capsule Networks for sign language recognition and their comparison with CNNs using real-time non-cooperative winner-take-it-all games.
+
+Organizational Work
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+* University of Toronto, St. George- Graduate Teaching Assistant at the University of Toronto for the course CSC258 entitled “Computer Organization” (January, 2020- present). 
+* Elevate- Event Volunteer at the Elevate Toronto Tech Festival. Worked in a team of 10+ members to manage and assist industry professionals at the Meridian Hall.
+* Graduate Management Consulting Association (GMCA)- Student member of the GMCA for 4 months (December, 2019 - present). Engaged and collaborated in management consulting events with focus on professional development and business networking.
+* Signal Processing and Integrated Networks (SPIN)- Head of the stage team and member of the coordinating and volunteering committees at the 6th, 5th and 4th International Conferences on Signal Processing and Integrated Networks (SPIN) respectively.
+
+Achievements and Accolades
 ======
-* Currently signed in to 43 different slack teams
+
+* Awarded with the shield for Best in Technical Innovation in the class of 2015-2019 at Graduation Ceremony, Amity University Uttar Pradesh.
+* Awarded with the Most Frugal Innovation trophy at APPTeC 2018, Amity University Uttar Pradesh for the project entitled “Design and Fabrication of an EMP Jamming Robotic System using Arduino Programming” (Patent Pending- 201711029986)
+* 100% On Admission Merit Scholarship awarded by Amity University, Uttar Pradesh for the Academic Year 2015-2016
+* Special Mention by Amity International School, Noida for scoring 95.25% with 3rd Position in Mathematics (97/100) 
+
