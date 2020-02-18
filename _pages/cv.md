@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-* M.A.Sc, 	2019-2021
-  // Electrical and Computer Engineering
-  // University of Toronto, Canada.
+* M.A.Sc, 	2019-2021  
+  Electrical and Computer Engineering  
+  University of Toronto, Canada.
 
 * B.Tech, 	2015-2019
   * Electronics and Communication Engineering
