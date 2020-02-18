@@ -12,29 +12,29 @@ redirect_from:
 Education
 ======
 
-* M.A.Sc, 	2019-2021  
+* __M.A.Sc__, 	2019-2021  
   Electrical and Computer Engineering  
   University of Toronto, Canada.
 
-* B.Tech, 	2015-2019  
+* __B.Tech__, 	2015-2019  
   Electronics and Communication Engineering  
   Amity University, India.
 
 Professionall Experience
 ======
 
-* Reinforcement Learning Developer  
+* __Reinforcement Learning Developer__  
   RBC Capital Markets, Toronto (2020-present)  
   * Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids  
   * Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques  
 
-* Graduate Research Assistant- Reinforcement Learning  
+*__Graduate Research Assistant- Reinforcement Learning__  
   Center for Management and Technical Entrepreneurship	(2019-2021)  
   * Developed Hierarchical Reinforcement Learning methods for cooperation and competition with Multi-Agent Learning using CapsNet and ConvNet  
   * Implementation and improvement of policy gradient algorithms such as Deep Actor-Critic, A2C, DDPG and PPO for financial data and analysis  
   * Reiteration of Episodic Q-Learning and Deep Q-Learning for exploration-based learning in Atari 2600 domain  
 
-* Undergraduate Research Assistant- Deep Learning  
+* __Undergraduate Research Assistant- Deep Learning__  
   Signal Processing and Deep Learning Lab, Amity University	(2017-2019)  
   * Project entitled “Indian Sign Language to Spoken Language Translator using data from Wearable Multisensor Armbands” Funded by the Department of Science and Technology, Government of India, SERB file number ECR/2016/000637  
   * Constructed novel CapsNets and ConvNets for non-cooperative games, Master-Slave DNNs and LSTM-RNNs for transfer-learning and dual-stage SVMs for classification and regression tasks using Keras APIs with Tensorflow backend  
@@ -87,11 +87,11 @@ _Activity Detection from Wearable Electromyogram Sensors using Hidden Markov Mod
 Academic Projects
 ======
 
-* InvestApp: Investing Made Easy  
+* __InvestApp: Investing Made Easy__  
 Worked in a team of 4+ members to develop a real-time investment application connecting 7+ countries for project funding via seed finance, joint ventures and fund managers. Actively conducted sessions, developed financial models, augmented business macroprocesses and proposed pitch solutions for tackling transaction regulations and making offshore trade feasible.
-* Faceboard: Real-Time Image Generation from Deep Generative Models using AWS Lambda and Eventbridge  
+* __Faceboard: Real-Time Image Generation from Deep Generative Models using AWS Lambda and Eventbridge__  
 REST API capable of reconstructing images in real-time from CAEs and GANs deployed on serverless Lambda and scheduled for background runs using Eventbridge.
-* Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory  
+* __Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory__  
 Construction of 1D Capsule Networks for sign language recognition and their comparison with CNNs using real-time non-cooperative winner-take-it-all games.
 
 Organizational Work
