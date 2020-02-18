@@ -16,37 +16,41 @@ Education
   Electrical and Computer Engineering  
   University of Toronto, Canada.
 
-* B.Tech, 	2015-2019
-  * Electronics and Communication Engineering
-  * Amity University, India.
+* B.Tech, 	2015-2019  
+  Electronics and Communication Engineering  
+  Amity University, India.
 
-Work experience
+Professionall Experience
 ======
 
-* Reinforcement Learning Developer
-  RBC Capital Markets, Toronto 2020-present
-  •	Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids
-  •	Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques 
+* Reinforcement Learning Developer  
+  RBC Capital Markets, Toronto (2020-present)  
+  * Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids  
+  * Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques  
 
+* Graduate Research Assistant- Reinforcement Learning  
+  Center for Management and Technical Entrepreneurship	(2019-2021)  
+  * Developed Hierarchical Reinforcement Learning methods for cooperation and competition with Multi-Agent Learning using CapsNet and ConvNet  
+  * Implementation and improvement of policy gradient algorithms such as Deep Actor-Critic, A2C, DDPG and PPO for financial data and analysis  
+  * Reiteration of Episodic Q-Learning and Deep Q-Learning for exploration-based learning in Atari 2600 domain  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Research Assistant- Deep Learning  
+  Signal Processing and Deep Learning Lab, Amity University	(2017-2019)  
+  * Project entitled “Indian Sign Language to Spoken Language Translator using data from Wearable Multisensor Armbands” Funded by the Department of Science and Technology, Government of India, SERB file number ECR/2016/000637  
+  * Constructed novel CapsNets and ConvNets for non-cooperative games, Master-Slave DNNs and LSTM-RNNs for transfer-learning and dual-stage SVMs for classification and regression tasks using Keras APIs with Tensorflow backend  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Skills and Competencies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Deep Learning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cloud Computing  
+Reinforcement Learning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Game Theory  
+Artificial Intelligence	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asset Handling  
+Multi-Agent Learning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Image Processing  
+Business Intelligence	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dataset Management  
+Strategy Planning	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Actionable Analytics  
+Risk Management	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Financial Modelling  
+Data Analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Management Consulting  
+
 
 Publications
 ======
