@@ -20,7 +20,7 @@ Education
   Electronics and Communication Engineering  
   Amity University, India.
 
-Professionall Experience
+Professional Experience
 ======
 
 * __Reinforcement Learning Developer__  
@@ -64,6 +64,17 @@ Tools and Languages
 |AWS         |	                  SQL|  
 |Tensorflow  |	     Google Analytics|  
 |Scikit-learn|       Microsoft Office|  
+
+
+Certifications
+======
+
+* __Big Data Level-1__ (2019)  
+  IBM [(credential)](https://www.youracclaim.com/earner/earned/badge/139cfbdd-f286-4448-8ac7-052b13d25a25)
+* __Customer Analytics__ (2019)  
+  The Wharton School [(credential)](https://www.coursera.org/account/accomplishments/certificate/KL86FCHR9UFQ)
+* __Machine Learning__ (2017)
+  Stanford University [(credential)](https://www.coursera.org/account/accomplishments/certificate/8LYS2HV37DZQ)
 
 
 Publications
