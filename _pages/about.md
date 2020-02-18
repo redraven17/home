@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the University of Toronto completing my M.A.Sc in Electrical and Computer Engineering under the supervision of Prof. [Yuri Lawryshyn](https://www.labs.chem-eng.utoronto.ca/lawryshyn/) and Prof. [Konstantinos N. Plataniotis](http://www.dsp.utoronto.ca/~kostas/). I am affiliated as a Reinforcement Learning Developer with RBC Capital Markets in collaboration with the [Center for Management and Technical Entrpreneurship (CMTE)](http://www.cmte.utoronto.ca/). My research revolves around the intersection of Reinforcement Learning and Market Trading.   
+I am a graduate student at the University of Toronto completing my M.A.Sc in Electrical and Computer Engineering under the supervision of Prof. [Yuri Lawryshyn](https://www.labs.chem-eng.utoronto.ca/lawryshyn/) and Prof. [Konstantinos N. Plataniotis](http://www.dsp.utoronto.ca/~kostas/). I am affiliated as a Reinforcement Learning Developer with RBC Capital Markets in collaboration with the [Center for Management and Technical Entrpreneurship (CMTE)](http://www.cmte.utoronto.ca/). My research revolves around the intersection of Reinforcement Learning and Market Trading.  
 
 Email- karush.suri@mail.utoronto.ca
 
