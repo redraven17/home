@@ -54,6 +54,7 @@ Skills and Competencies
 |Risk Management        |  Financial Modelling|  
 |Data Analysis          |Management Consulting|  
 
+
 Tools and Languages
 ======
 
