@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Karush Suri"
 permalink: /sitemap/
 author_profile: true
 ---
