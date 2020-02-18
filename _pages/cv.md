@@ -13,18 +13,18 @@ Education
 ======
 
 * M.A.Sc, 	2019-2021
-  Electrical and Computer Engineering
-  University of Toronto, Canada.
+  // Electrical and Computer Engineering
+  // University of Toronto, Canada.
 
 * B.Tech, 	2015-2019
-  Electronics and Communication Engineering
-  Amity University, India.
+  * Electronics and Communication Engineering
+  * Amity University, India.
 
 Work experience
 ======
 
 * Reinforcement Learning Developer
-  RBC Capital Markets, Toronto                        2020-present
+  RBC Capital Markets, Toronto 2020-present
   •	Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids
   •	Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques 
 
