@@ -19,9 +19,9 @@ __Reinforcement Learning__
 
 __Deep Learning__
 ======
-1. [Capsule Networks for Digit Recognition using PyTorch] (https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Deep%20Learning/CapsNet_MNIST.ipynb)
+1. [Capsule Networks for Digit Recognition using PyTorch](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Deep%20Learning/CapsNet_MNIST.ipynb)
 
-2. [Learning Stock Prices using RNNs and LSTMs in PyTorch] (https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Deep%20Learning/StockPricePrediction.ipynb)
+2. [Learning Stock Prices using RNNs and LSTMs in PyTorch](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Deep%20Learning/StockPricePrediction.ipynb)
 
 
 __Machine Learning__
