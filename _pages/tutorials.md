@@ -12,9 +12,11 @@ redirect_from:
 
 __Reinforcement Learning__
 ======
-1. [Policy Gradients in PyTorch using Neural Networks](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DDPG_ANN.ipynb)
+1. [Multi-Agent Hierarchical Cooperation using Q-Learning](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/HRL_Q.ipynb)
 
-2. [Deep Deterministic Policy Gradients (DDPG) in PyTorch using Capsule Networks](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DDPG_CapsNet.ipynb)
+2. [Policy Gradients in PyTorch using Neural Networks](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DDPG_ANN.ipynb)
+
+3. [Deep Deterministic Policy Gradients (DDPG) in PyTorch using Capsule Networks](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DDPG_CapsNet.ipynb)
 
 
 __Deep Learning__
