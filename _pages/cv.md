@@ -23,7 +23,7 @@ Education
 Professional Experience
 ======
 
-* __Reinforcement Learning Developer__  
+* __Thesis Researcher__  
   RBC Capital Markets, Toronto (2020-present)  
   * Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids  
   * Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques  
