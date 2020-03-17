@@ -13,7 +13,7 @@ redirect_from:
 __Reinforcement Learning__
 ======
 
-[Multi-Agent Hierarchical Cooperation using Q-Learning-Part II](https://github.com/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/2516_project.ipynb)
+[Multi-Agent Hierarchical Cooperation using Q-Learning-Part II](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/2516_project.ipynb)
 
 [Multi-Agent Hierarchical Cooperation using Q-Learning-Part I](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/HRL_Q.ipynb)
 
