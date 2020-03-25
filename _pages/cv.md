@@ -118,6 +118,7 @@ Organizational Work
 Achievements and Accolades
 ======
 
+* Awarded the Edward S. Rogers Sr. Graduate Scholarship by the University of Toronto for the duration 2019-2021.
 * Awarded with the shield for Best in Technical Innovation in the class of 2015-2019 at Graduation Ceremony, Amity University Uttar Pradesh.
 * Awarded with the Most Frugal Innovation trophy at APPTeC 2018, Amity University Uttar Pradesh for the project entitled “Design and Fabrication of an EMP Jamming Robotic System using Arduino Programming” (Patent Pending- 201711029986)
 * 100% On Admission Merit Scholarship awarded by Amity University, Uttar Pradesh for the Academic Year 2015-2016
