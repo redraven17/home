@@ -21,7 +21,7 @@ __Reinforcement Learning__
 
 [Deep Deterministic Policy Gradients (DDPG) in PyTorch using Capsule Networks](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DDPG_CapsNet.ipynb)
 
-[Playing Atari using Q-Learning](https://github.com/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DQN_atari.ipynb)
+[Playing Atari using Deep Q-Learning](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DQN_atari.ipynb)
 
 __Deep Learning__
 ======
