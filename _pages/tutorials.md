@@ -27,6 +27,8 @@ __Deep Learning__
 ======
 [Capsule Networks for Digit Recognition using PyTorch](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Deep%20Learning/CapsNet_MNIST.ipynb)
 
+[Continuous Control using Evolution Strategies](https://github.com/karush17/Evolution-Strategies-PyTorch/blob/master/Evolution_Strategies.ipynb)
+
 [Learning Stock Prices using RNNs and LSTMs in PyTorch](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Deep%20Learning/StockPricePrediction.ipynb)
 
 
