@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-_Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory_ 
+_Attentive Hierarchical Reinforcement Learning for Stock Order Executions_  
+arXiv preprint, 2020. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf)  
+
+_Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory_  
 Computers And Electrical Engineering, Elsevier, Vol. 78, pp.493-503, 2019. [(link)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
 
 _Convolutional Neural Network Array for Sign Language Recognition using Wearable IMUs_  
