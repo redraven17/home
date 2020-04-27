@@ -26,13 +26,14 @@ Professional Experience
 * __Thesis Researcher__  
   RBC Capital Markets, Toronto (2020-present)  
   * Developed Hierarchical Reinforcement Learning pipelines using A2C, DDPG and PPO for limit order bids  
+  * Reconstructed Evolutionary algorithms such as ES and WTA in conjunction with policy search and iterative techniques  
   * Dynamic trading using policy gradient algorithms and off-policy Q-Learning, DQN and soft exploration techniques  
 
 * __Graduate Research Assistant- Reinforcement Learning__  
   Center for Management of Technology and Entrepreneurship	(2019-2021)  
   * Developed Hierarchical Reinforcement Learning methods for cooperation and competition with Multi-Agent Learning using CapsNet and ConvNet  
   * Implementation and improvement of policy gradient algorithms such as Deep Actor-Critic, A2C, DDPG and PPO for financial data and analysis  
-  * Reiteration of Episodic Q-Learning and Deep Q-Learning for exploration-based learning in Atari 2600 domain  
+  * Reiteration of Episodic Q-Learning and Deep Q-Learning for exploration-based learning in MuJoCo and Atari 2600 domain  
 
 * __Undergraduate Research Assistant- Deep Learning__  
   Signal Processing and Deep Learning Lab, Amity University	(2017-2019)  
@@ -82,6 +83,9 @@ Certifications
 Publications
 ======
 
+_Attentive Hierarchical Reinforcement Learning for Stock Order Executions_  
+arXiv preprint, 2020. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf)  
+
 _Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory_ 
 Computers And Electrical Engineering, Elsevier, Vol. 78, pp.493-503, 2019. [(link)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
 
@@ -89,16 +93,22 @@ _Convolutional Neural Network Array for Sign Language Recognition using Wearable
 5th International Conference on Signal Processing and Integrated Networks, SPIN 2019, IEEE. [(link)](https://ieeexplore.ieee.org/document/8711745)  
 
 _Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture_  
-International Conference on Communication and Computational Intelligence, 2018, IEEE.   
+International Conference on Communication and Computational Intelligence, 2018, IEEE. [(link)](https://doi.org/10.1109/IC3I44769.2018.9007304)  
 
 _Classification of Hand Gestures from Wearable IMUs using Deep Neural Network_  
 2nd International Conference on Inventive Communication and Computational Technologies, 2018, IEEE [(link)](https://ieeexplore.ieee.org/document/8473301)
 
 _Activity Detection from Wearable Electromyogram Sensors using Hidden Markov Model_  
-2nd International Conference on Computing Methodologies and Communication, 2018, IEEE [(link)](https://ieeexplore.ieee.org/document/8488070)
+2nd International Conference on Computing Methodologies and Communication, 2018, IEEE [(link)](https://ieeexplore.ieee.org/document/8488070)  
+
+_Dual Stage Classification of Hand Gestures using Surface Electromyogram_  
+5th International Conference on Signal Processing and Inegrated Networks (SPIN), 2018, IEEE. [(link)](https://doi.org/10.1109/SPIN.2018.8474145)  
 
 Academic Projects
 ======
+
+* __Attentive Hierarchcial Reinforcement Learning for Stock Order Executions__  
+S&P 500 stock order execution pipeline utilizing Hierarchical Reinforcement Learning and Attention for high frequency trading. Developed and tested on a total of 6 tickers with 2 minute granularity during the COVID-19 outbreak.  
 
 * __InvestApp: Investing Made Easy__  
 Worked in a team of 4+ members to develop a real-time investment application connecting 7+ countries for project funding via seed finance, joint ventures and fund managers. Actively conducted sessions, developed financial models, augmented business macroprocesses and proposed pitch solutions for tackling transaction regulations and making offshore trade feasible.
