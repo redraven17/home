@@ -14,5 +14,5 @@ Email- karush.suri@mail.utoronto.ca
 
 Vision Statement
 ======
-Understanding the myriad applications and implementations of advancing technologies in business paradigms is one of the key challenges. I wish to bridge the gap between technology and business solutions by incorporating relevant techniques and methods in the analytics and learning domain, hence devising pragmatic solutions for corporate growth and development. 
+Understanding the myriad applications and implementations of advancing technologies in business paradigms is one of the key challenges. I wish to bridge the gap between technology and business solutions by incorporating relevant techniques and methods in the learning domain, hence devising pragmatic solutions for corporate growth and development. 
 
