@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /tutorials/
-author_profile: true
+author_profile: false
 redirect_from:
   - /tut
 ---
