@@ -86,7 +86,8 @@ author:
   location         : "Toronto"
   employer         : "RBC Capital Markets"
   pubmed           : 
-  googlescholar    : 
+  arXiv            : "https://arxiv.org/search/eess?searchtype=author&query=Suri%2C+K"
+  googlescholar    : "https://scholar.google.co.in/citations?user=ZFCHp9gAAAAJ&hl=en"
   email            : "karush.suri@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
