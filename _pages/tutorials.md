@@ -23,6 +23,11 @@ __Reinforcement Learning__
 
 [Playing Atari using Deep Q-Learning](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/DQN_atari.ipynb)
 
+__Robotic Control__
+======
+[Holonomic and Pfaffian Constraints for Robotic Control](https://nbviewer.jupyter.org/github/karush17/Robotic-Control/blob/master/Pfaffian.ipynb)  
+
+
 __Deep Learning__
 ======
 [Capsule Networks for Digit Recognition using PyTorch](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Deep%20Learning/CapsNet_MNIST.ipynb)
