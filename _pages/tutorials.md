@@ -25,7 +25,7 @@ __Reinforcement Learning__
 
 __Robotic Control__
 ======
-[Holonomic and Pfaffian Constraints for Robotic Control](https://nbviewer.jupyter.org/github/karush17/Robotic-Control/blob/master/Pfaffian.ipynb)  
+[Holonomic and Pfaffian Constraints for Robotic Control](https://karush17.github.io/posts/2012/08/blog-post-17/)  
 
 
 __Deep Learning__
