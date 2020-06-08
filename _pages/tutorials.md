@@ -27,6 +27,8 @@ __Robotic Control__
 ======
 [Holonomic and Pfaffian Constraints for Robotic Control](https://karush17.github.io/posts/2012/08/blog-post-17/)  
 
+[Manipulator Jacobians and Singularity for Open Chain Effector Control](https://karush17.github.io/posts/2012/08/blog-post-19/)
+
 
 __Deep Learning__
 ======
