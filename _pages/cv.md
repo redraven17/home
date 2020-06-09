@@ -73,6 +73,7 @@ Skills and Competencies
 |:----------------------|--------------------:|  
 |Deep Learning          |      Cloud Computing|  
 |Reinforcement Learning |          Game Theory|  
+|Robotic Control        | Planning and Control|  
 |Artificial Intelligence|       Asset Handling|  
 |Multi-Agent Learning   |     Image Processing|  
 |Business Intelligence  |   Dataset Management|  
