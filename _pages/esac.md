@@ -7,6 +7,13 @@ author_profile: false
 
 <center><h1>Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning</h1></center>  
 
+<pre>
+<p align="center"><img src="/images/cmte.PNG" height="150" widht="150"/>              <img src="/images/rbc.png" height="150" widht="150"/>             <img src="/images/uoft.png" height="150" widht="150"/></p>
+
+<center><h3>            Karush Suri                 Xiao Qi Shi                 Yuri A. Lawryshyn       Konstantinos N. Plataniotis<br/>
+    University of Toronto         RBC Captial Markets           University of Toronto        University of Toronto<br/>
+karush.suri@mail.utoronto.ca     xiaoqi.shi@borealisai.ca     yuri.lawryshyn@utoronto.ca     kostas@ece.utoronto.ca</h3></center>
+</pre>
 
 {% include button.html text="arXiv" icon="arxiv" link="https://arxiv.org/" color="#cc0000" %} {% include button.html text="GitHub" icon="github" link="https://github.com/karush17/karush17.github.io/blob/master/_pages/publications.md" color="#333333" %} {% include button.html text="Blog Post" link="https://karush17.github.io/" %} {% include button.html text="Videos" link="" color="#0073e6" link="https://karush17.github.io/" %}
 
