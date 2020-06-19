@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ""
+header: false
 permalink: /esac/
 author_profile: false
 ---
@@ -8,7 +9,7 @@ author_profile: false
 <center><h1>Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning</h1></center>  
 
 <pre>
-<p align="center">           <img src="/images/cmte.PNG" height="125" widht="125"/>              <img src="/images/rbc.png" height="100" widht="100"/>                <img src="/images/uoft.png" height="100" widht="100"/></p>
+<p align="center">           <img src="/images/cmte.PNG" height="125" widht="125"/>              <img src="/images/rbc.png" height="75" widht="75"/>                <img src="/images/uoft.png" height="75" widht="75"/></p>
 
 <center><h3>          Karush Suri                 Xiao Qi Shi                 Yuri A. Lawryshyn        Konstantinos N. Plataniotis<br/>
     University of Toronto         RBC Captial Markets           University of Toronto        University of Toronto<br/>
