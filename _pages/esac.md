@@ -15,8 +15,6 @@ author_profile: false
 karush.suri@mail.utoronto.ca     xiaoqi.shi@borealisai.ca     yuri.lawryshyn@utoronto.ca     kostas@ece.utoronto.ca</h3></center>
 </pre>
 
-{% include button.html text="arXiv" icon="arxiv" link="https://arxiv.org/" color="#cc0000" %} {% include button.html text="GitHub" icon="github" link="https://github.com/karush17/karush17.github.io/blob/master/_pages/publications.md" color="#333333" %} {% include button.html text="Blog Post" link="https://karush17.github.io/" %} {% include button.html text="Videos" link="" color="#0073e6" link="https://karush17.github.io/" %}
-
 
 <h2>About ESAC</h2>
 
