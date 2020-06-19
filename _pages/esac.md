@@ -4,6 +4,7 @@ title: "ESAC"
 permalink: /esac/
 author_profile: false
 ---
+{% include base_path %}
 
 <center><h1>Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning</h1></center>  
 
