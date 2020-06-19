@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "ESAC"
 permalink: /esac/
 author_profile: false
