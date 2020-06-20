@@ -95,22 +95,11 @@ Tools and Languages
 |Scikit-learn|       Microsoft Office|  
 
 
-Certifications
-======
-
-* __Big Data Level-1__ (2019)  
-  IBM [(credential)](https://www.youracclaim.com/earner/earned/badge/139cfbdd-f286-4448-8ac7-052b13d25a25)
-* __Customer Analytics__ (2019)  
-  The Wharton School [(credential)](https://www.coursera.org/account/accomplishments/certificate/KL86FCHR9UFQ)
-* __Machine Learning__ (2017)
-  Stanford University [(credential)](https://www.coursera.org/account/accomplishments/certificate/8LYS2HV37DZQ)
-
-
 Publications
 ======
 
 _Attentive Hierarchical Reinforcement Learning for Stock Order Executions_  
-arXiv preprint, 2020. [(arXiv)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf)  
+arXiv preprint, 2020. [(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf)  
 
 _Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory_ 
 Computers And Electrical Engineering, Elsevier, Vol. 78, pp.493-503, 2019. [(arXiv)](https://arxiv.org/abs/2005.00409) [(doi)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
@@ -142,6 +131,16 @@ Worked in a team of 4+ members to develop a real-time investment application con
 REST API capable of reconstructing images in real-time from CAEs and GANs deployed on serverless Lambda and scheduled for background runs using Eventbridge.
 * __Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory__  
 Construction of 1D Capsule Networks for sign language recognition and their comparison with CNNs using real-time non-cooperative winner-take-it-all games.
+
+Certifications
+======
+
+* __Big Data Level-1__ (2019)  
+  IBM [(credential)](https://www.youracclaim.com/earner/earned/badge/139cfbdd-f286-4448-8ac7-052b13d25a25)
+* __Customer Analytics__ (2019)  
+  The Wharton School [(credential)](https://www.coursera.org/account/accomplishments/certificate/KL86FCHR9UFQ)
+* __Machine Learning__ (2017)
+  Stanford University [(credential)](https://www.coursera.org/account/accomplishments/certificate/8LYS2HV37DZQ)
 
 Organizational Work
 ======
