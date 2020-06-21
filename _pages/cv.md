@@ -20,7 +20,7 @@ Education
   Electronics and Communication Engineering  
   Amity University, India.
 
-Professional Experience
+Appointments
 ======
 
 * __Thesis Researcher__  
