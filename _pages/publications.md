@@ -44,4 +44,4 @@ Annual Project and Posters Technical Competition (APPTeC) 2018. [(link)](https:/
 __Thesis__
 ======  
 * _Application of Deep Learning and Game Theory for Sign Language Recognition using Wearable Sensors_  
-Class of 2015-2019. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Bachelors.pdf)
+Undergraduate Thesis [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Bachelors.pdf)
