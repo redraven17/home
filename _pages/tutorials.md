@@ -13,6 +13,8 @@ redirect_from:
 __Reinforcement Learning__
 ======
 
+[Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning](https://karush17.github.io/esac-web/blog.html)
+
 [Multi-Agent Hierarchical Cooperation using Q-Learning-Part II](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/2516_Project.ipynb)
 
 [Multi-Agent Hierarchical Cooperation using Q-Learning-Part I](https://nbviewer.jupyter.org/github/karush17/PyTorch-Tutorials/blob/master/Tutorials/Reinforcement%20Learning/HRL_Q.ipynb)
