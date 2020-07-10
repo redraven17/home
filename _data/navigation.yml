@@ -13,7 +13,7 @@ main:
     url: /tutorials/
 
   - title: "CV"
-    url: /cv/
+    url: https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_pages/CV.pdf
 
   - title: "Gallery"
     url: /gallery/
