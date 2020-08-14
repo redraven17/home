@@ -10,7 +10,7 @@ __Selected Preprints__
 
 * Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning"_, Submitted to 4th Conference on Robot Learning (CoRL) 2020, MIT, US. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
 
-* Karush Suri, Shashank Saurav, _"Attentive Hierarchical Reinforcement Learning for Stock Order Executions"_, arXiv preprint, 2020. [(arXiv)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)  
+* Karush Suri, Shashank Saurav, _"Attentive Hierarchical Reinforcement Learning for Stock Order Executions"_, Technical Report, 2020. [(arXiv)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)  
 
 __Selected Publications__
 ======  
@@ -19,12 +19,6 @@ __Selected Publications__
 * Karush Suri, Rinki Gupta, _"Convolutional Neural Network Array for Sign Language Recognition using Wearable IMUs"_ , 5th International Conference on Signal Processing and Integrated Networks, SPIN 2019, IEEE. [(arXiv)](https://arxiv.org/abs/2004.11836) [(doi)](https://ieeexplore.ieee.org/document/8711745)  
 
 * Karush Suri, Rinki Gupta, _"Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture"_, International Conference on Communication and Computational Intelligence, 2018, IEEE. [(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)  
-
-* Karush Suri, Rinki Gupta, _"Classification of Hand Gestures from Wearable IMUs using Deep Neural Network"_, 2nd International Conference on Inventive Communication and Computational Technologies, 2018, IEEE [(arXiv)](https://arxiv.org/abs/2005.00410) [(doi)](https://ieeexplore.ieee.org/document/8473301)
-
-* Rinki Gupta, Karush Suri, _"Activity Detection from Wearable Electromyogram Sensors using Hidden Markov Model"_, 2nd International Conference on Computing Methodologies and Communication, 2018, IEEE [(arXiv)](https://arxiv.org/abs/2005.00107) [(doi)](https://ieeexplore.ieee.org/document/8488070)  
-
-* Karush Suri, Rinki Gupt, _"Dual Stage Classification of Hand Gestures using Surface Electromyogram"_, 5th International Conference on Signal Processing and Inegrated Networks (SPIN), 2018, IEEE. [(arXiv)](https://arxiv.org/abs/2005.01711) [(doi)](https://doi.org/10.1109/SPIN.2018.8474145)  
 
 __Selected Posters__
 ======  
