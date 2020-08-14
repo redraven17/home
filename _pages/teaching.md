@@ -14,7 +14,7 @@ _Teaching Assistant, Department of Computer Sciencce, University of Toronto._
 * MATH- Integral Calculus (Summer 2016)  
 _Teaching Assistant, Sai Kripa Orphanage._  
 
-* MATH- Integral Calculus (Summer 2016)  
+* MATH- Numerical Differentiation (Summer 2016)  
 _Teaching Assistant, Sai Kripa Orphanage._  
 
 * MATH- Linear Algebra (Summer 2016)  
