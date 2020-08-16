@@ -1,11 +1,8 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-excerpt: "Teaching"
+laout: archive
 author_profile: false
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 * CSC258- Computer Organization (Winter 2020)  
