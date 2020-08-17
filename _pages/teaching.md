@@ -17,6 +17,6 @@ _Teaching Assistant, Sai Kripa Orphanage._
 * MATH- Linear Algebra (Summer 2016)  
 _Teaching Assistant, Sai Kripa Orphanage._  
 
-* MATH- Introduction to Physics (Fall 2016)  
+* PHY- Introduction to Physics (Fall 2016)  
 _Teaching Assistant, Sai Kripa Orphanage._  
 
