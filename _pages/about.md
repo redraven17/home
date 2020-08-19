@@ -10,7 +10,7 @@ redirect_from:
 
 I am a graduate student at the University of Toronto completing my M.A.Sc in Electrical and Computer Engineering under the supervision of Prof. [Yuri Lawryshyn](https://www.labs.chem-eng.utoronto.ca/lawryshyn/) and Prof. [Konstantinos N. Plataniotis](http://www.dsp.utoronto.ca/~kostas/). I am supported by the Edward S. Rogers Graduate Scholarship and RBC Capital Markets where I am affiliated as a Thesis Researcher in collaboration with the [Center for Management of Technology and Entrpreneurship (CMTE)](http://www.cmte.utoronto.ca/). My research revolves around the intersection of Reinforcement Learning, Deep Learning, Robotic Control and Market Trading.  
 
-I earned my Bachelor of Technology (B.Tech) from Amity University where I was affiliated as an undergraduate Research Assistant at the Signal Processing and Deep Learning Lab under the supervision of Prof. [Rinki Gupta](https://www.amity.edu/aset/departments-ece-Research-Cells-ece-Signal.asp). During my time at the lab, I worked on Deep Learning and Wearable Control and received the Curriculum Merit Scholarship (2016) along with the Best in Technical Innovation Award (Class of 2015-2019).  
+I earned my Bachelor of Technology (B.Tech) from Amity University where I was affiliated as an undergraduate Research Assistant at the Signal Processing and Deep Learning Lab under the supervision of Prof. [Rinki Gupta](https://www.amity.edu/aset/departments-ece-Research-Cells-ece-Signal.asp).  
 
 Email- karush.suri@mail.utoronto.ca
 
