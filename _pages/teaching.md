@@ -5,6 +5,9 @@ laout: archive
 author_profile: false
 ---
 
+* CSC2209- Computer Networks (Fall 2020)  
+_Teaching Assistant, Department of Computer Sciencce, University of Toronto._  
+
 * CSC258- Computer Organization (Winter 2020)  
 _Teaching Assistant, Department of Computer Sciencce, University of Toronto._  
 
