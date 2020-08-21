@@ -16,4 +16,4 @@ Email- karush.suri@mail.utoronto.ca
 
 Vision Statement
 ======
-My goal is to understand and build intelligence. I aim to build intelligent reinforcement learning agents which can reason about the world and solve complex real-world tasks by obtaining abstract knowledge about its components. Currently, my main area of work is hierarchical reinforcement learning, model-based reinforcement learning and planning for robotic control.  
+My goal is to understand and build intelligence. I aim to build intelligent reinforcement learning agents which can reason about the world and solve complex real-world tasks by obtaining abstract knowledge about its components. Currently, my main area of work is at the intersection of (deep) (multi-agent) reinforcement learning.  
