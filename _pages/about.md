@@ -12,7 +12,7 @@ I am a graduate student at the University of Toronto completing my M.A.Sc in Ele
 
 I earned my Bachelor of Technology (B.Tech) from Amity University where I was affiliated as an undergraduate Research Assistant at the Signal Processing and Deep Learning Lab under the supervision of Prof. [Rinki Gupta](https://www.amity.edu/aset/departments-ece-Research-Cells-ece-Signal.asp).  
 
-Email- karush.suri@mail.utoronto.ca
+Email- firstname dot lastname at mail dot utoronto dot ca
 
 Vision Statement
 ======
