@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at the University of Toronto completing my M.A.Sc in Electrical and Computer Engineering under the supervision of Prof. [Yuri Lawryshyn](https://www.labs.chem-eng.utoronto.ca/lawryshyn/) and Prof. [Konstantinos N. Plataniotis](http://www.dsp.utoronto.ca/~kostas/). I am supported by the Edward S. Rogers Graduate Scholarship and RBC Capital Markets where I am affiliated as a Thesis Researcher in collaboration with the [Center for Management of Technology and Entrpreneurship (CMTE)](http://www.cmte.utoronto.ca/). My research revolves around the intersection of Reinforcement Learning, Deep Learning, Robotic Control and Market Trading.  
+I am a graduate student at the University of Toronto completing my M.A.Sc in Electrical and Computer Engineering under the supervision of Prof. [Yuri Lawryshyn](https://www.labs.chem-eng.utoronto.ca/lawryshyn/) and Prof. [Konstantinos N. Plataniotis](http://www.dsp.utoronto.ca/~kostas/). I am supported by the Edward S. Rogers Graduate Scholarship and RBC Capital Markets where I am affiliated as a Thesis Researcher in collaboration with the [Center for Management of Technology and Entrpreneurship (CMTE)](http://www.cmte.utoronto.ca/). My research revolves around the intersection of Reinforcement Learning, Deep Learning and Robotic Control.  
 
 I earned my Bachelor of Technology (B.Tech) from Amity University where I was affiliated as an undergraduate Research Assistant at the Signal Processing and Deep Learning Lab under the supervision of Prof. [Rinki Gupta](https://www.amity.edu/aset/departments-ece-Research-Cells-ece-Signal.asp).  
 
