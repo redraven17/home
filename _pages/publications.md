@@ -17,7 +17,7 @@ __Selected Publications__
 
 * Karush Suri, Shashank Saurav, _"Attentive Hierarchical Reinforcement Learning for Stock Order Executions"_, Technical Report, 2020. [(arXiv)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)  
 
-* Karush Suri, Rinki Gupta, _"Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory"_, Computers And Electrical Engineering, Elsevier, Vol. 78, pp.493-503, 2019. [(arXiv)](https://arxiv.org/abs/2005.00409) [(doi)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
+* Karush Suri, Rinki Gupta, _"Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory"_, Computers And Electrical Engineering, Elsevier, Vol. 78, 2019. [(arXiv)](https://arxiv.org/abs/2005.00409) [(doi)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
 
 * Karush Suri, Rinki Gupta, _"Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture"_, 3rd International Conference on Communication and Computational Intelligence (IC3I) 2018, IEEE. [(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)  
 
