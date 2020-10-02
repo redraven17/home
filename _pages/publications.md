@@ -8,9 +8,9 @@ author_profile: false
 __Selected Preprints__
 ======  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Submitted to 20th International Conference on Autonomous Agents & Multiagent Systems (AAMAS) 2020, London, UK. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Submitted to 20th International Conference on Autonomous Agents & Multiagent Systems (AAMAS) 2020. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning"_, Submitted to 4th Conference on Robot Learning (CoRL) 2020, MIT, US. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning"_, Submitted to 4th Conference on Robot Learning (CoRL) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
 
 __Selected Publications__
 ======  
@@ -19,7 +19,7 @@ __Selected Publications__
 
 * Karush Suri, Rinki Gupta, _"Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory"_, Computers And Electrical Engineering, Elsevier, Vol. 78, pp.493-503, 2019. [(arXiv)](https://arxiv.org/abs/2005.00409) [(doi)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
 
-* Karush Suri, Rinki Gupta, _"Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture"_, International Conference on Communication and Computational Intelligence, 2018, IEEE. [(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)  
+* Karush Suri, Rinki Gupta, _"Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture"_, 3rd International Conference on Communication and Computational Intelligence (IC3I) 2018, IEEE. [(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)  
 
 __Selected Posters__
 ======  
