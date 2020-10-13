@@ -12,8 +12,8 @@ I am a graduate student at the University of Toronto completing my M.A.Sc in Ele
 
 My goal is to understand and build intelligence. I aim to develop intelligent reinforcement learning agents which can reason about the world and solve complex real-world tasks by obtaining abstract knowledge about its components. Currently, my main area of work is at the intersection of (deep) (multi-agent) reinforcement learning.  
 
-#### <span style="color:grey">News</span>  
-* <span style="color:green">October 13, 2020-</span> My collection of [one-page Reviews](https://github.com/karush17/Paper-Reviews) is accepting contributions
+### <span style="color:grey">News</span>  
+* <span style="color:green">October 13, 2020-</span> My collection of [one-page reviews](https://github.com/karush17/Paper-Reviews) is accepting contributions
 * <span style="color:green">September 16, 2020-</span> Our preprint on [Energy-based Surprise Minimization](https://arxiv.org/abs/2009.09842) is now available
 * <span style="color:green">July 24, 2020-</span> Our preprint on [Maximum Mutation Reinforcement Learning](https://arxiv.org/abs/2007.13690) is now available
 * <span style="color:green">February 22, 2020-</span> I will be joining RBC Capital Markets as a Thesis Researcher
