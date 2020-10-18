@@ -8,9 +8,9 @@ author_profile: false
 __Selected Preprints__
 ======  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Submitted to 20th International Conference on Autonomous Agents & Multiagent Systems (AAMAS) 2020. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Under Review. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning"_, Submitted to 4th Conference on Robot Learning (CoRL) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning"_, Under Review. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
 
 __Selected Publications__
 ======  
