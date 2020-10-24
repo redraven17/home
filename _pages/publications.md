@@ -5,15 +5,13 @@ permalink: /publications/
 author_profile: false
 ---
 
-__Selected Preprints__
-======  
-
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Under Review. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
-
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Evolve To Control: Evolution-based Soft Actor-Critic for Scalable Reinforcement Learning"_, Under Review. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
 
 __Selected Publications__
 ======  
+
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
+
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
 
 * Karush Suri, Shashank Saurav, _"Attentive Hierarchical Reinforcement Learning for Stock Order Executions"_, Technical Report, 2020. [(arXiv)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)  
 
