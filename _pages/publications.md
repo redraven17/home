@@ -9,7 +9,7 @@ author_profile: false
 __Selected Publications__
 ======  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, $20^{th}$ International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2021, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
 
 * Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
 
