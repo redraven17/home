@@ -5,7 +5,7 @@ laout: archive
 author_profile: false
 ---
 
-* ECE1512- Digital Image Processing and Applications (Winter 2020)  
+* ECE1512- Digital Image Processing and Applications (Winter 2021)  
 _Teaching Assistant, Department of Electrical and Computer Engineering, University of Toronto._  
 
 * CSC2209- Computer Networks (Fall 2020)  
