@@ -6,12 +6,12 @@ author_profile: false
 ---
 
 
-__Selected Publications__
+__Publications__
 ======  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, $20^{th}$ International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2021, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842) [(blog)](https://karush17.github.io/emix-web/blog.html) [(code)](https://github.com/karush17/emix) [(videos)](https://karush17.github.io/emix-web/videos.html)  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, $20^{th}$ International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2021, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842)  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690) [(blog)](https://karush17.github.io/esac-web/blog.html) [(code)](https://github.com/karush17/esac) [(videos)](https://karush17.github.io/esac-web/videos.html)  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690)   
 
 * Karush Suri, Shashank Saurav, _"Attentive Hierarchical Reinforcement Learning for Stock Order Executions"_, Technical Report, 2020. [(arXiv)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)  
 
@@ -19,7 +19,7 @@ __Selected Publications__
 
 * Karush Suri, Rinki Gupta, _"Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture"_, 3rd International Conference on Communication and Computational Intelligence (IC3I) 2018, IEEE. [(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)  
 
-__Selected Posters__
+__Posters__
 ======  
 * Karush Suri, Rinki Gupta, _"Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory"_, Annual Project and Posters Technical Competition (APPTeC) 2019. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster3.pdf)  
 
