@@ -21,6 +21,10 @@ __Publications__
 
 __Posters__
 ======  
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/18.pdf)   
+
+* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/16.pdf)   
+
 * Karush Suri, Rinki Gupta, _"Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory"_, Annual Project and Posters Technical Competition (APPTeC) 2019. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster3.pdf)  
 
 * Karush Suri, Rinki Gupta, _"Activity Detection from Wearable Electromyogram Sensors using Hidden Markov Model"_, Annual Project and Posters Technical Competition (APPTeC) 2018. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster1.pdf)  
