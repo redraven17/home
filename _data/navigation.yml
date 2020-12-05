@@ -9,8 +9,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Tutorials"
-    url: /tutorials/
+#   - title: "Tutorials"
+#     url: /tutorials/
 
   - title: "CV"
     url: https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_pages/CV.pdf
