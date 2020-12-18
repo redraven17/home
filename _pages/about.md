@@ -13,6 +13,7 @@ I am an M.A.Sc candidate at the University of Toronto under the supervision of P
 My goal is to understand and build intelligence. I aim to develop intelligent reinforcement learning agents which can reason about the world and solve complex real-world tasks by obtaining abstract knowledge about its components. Currently, my main area of work is at the intersection of (deep) (multi-agent) reinforcement learning.  
 
 ## <span style="color:grey">News</span>  
+* <span style="color:green">December 18, 2020-</span> New [tutorial](https://youtu.be/eY-PHBdN9_w) on cooperation in multi-agent reinforcement learning is now available.  
 * <span style="color:green">December 10, 2020-</span> Our poster presentations for [EMIX](https://slideslive.com/38940985/energybased-surprise-minimization-for-multiagent-value-factorization?ref=account-folder-62083-folders) and [ESAC](https://slideslive.com/38940981/maximum-mutation-reinforcement-learning-for-scalable-control?ref=account-folder-62083-folders) from NeurIPS 2020 are now available.
 * <span style="color:green">October 24, 2020-</span> 2 papers accepted in Deep Reinforcement Learning Workshop at NeurIPS 2020!
 * <span style="color:green">October 13, 2020-</span> My collection of [one-page reviews](https://github.com/karush17/Paper-Reviews) is accepting contributions.
