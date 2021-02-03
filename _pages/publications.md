@@ -19,7 +19,7 @@ __Publications__
 
 __Technical Reviews__
 ======  
-* Karush Suri, _"On Variational Generalization Bounds for Unsupervised Visual Recognition"_, Technical Report, 2020. [(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/VariationalBounds.pdf) [(code)](https://github.com/karush17/ECE1504-Project/tree/master/code/ID)  
+* Karush Suri, _"On Variational Generalization Bounds for Unsupervised Visual Recognition"_, Technical Report, 2020. [(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/VariationalBounds.pdf) [(code)](https://github.com/karush17/ECE1504-Project/tree/master/supplementary/code/ID)  
 
 * Karush Suri, _"On Cooperation in Multi-Agent Reinforcement Learning"_, Technical Report, 2020. [(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/report.pdf) [(code)](https://github.com/karush17/ECE1657-Project/tree/master/code)  
 
