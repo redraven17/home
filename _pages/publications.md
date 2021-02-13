@@ -9,10 +9,10 @@ author_profile: false
 __Publications__
 ======  
 
-<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:150px;height:150px" src="/images/500x300.png" /> _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
-**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
-<span style="font-size:14px"> DRLW, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020.  
-[(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842)</span>  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/emix.PNG" />&nbsp; _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
+&nbsp;**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
+&nbsp;<span style="font-size:14px"> DRLW, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020.  
+&nbsp;[(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842)</span>  
 
 * Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690)   
 
