@@ -203,6 +203,8 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    border: 0px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
   > a {
