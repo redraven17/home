@@ -9,7 +9,7 @@ author_profile: false
 __Publications__
 ======  
 
-<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:36px;height:36px" src="/images/500x300.png" /> _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:150px;height:150px" src="/images/500x300.png" /> _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
 **K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
 <span style="font-size:14px"> DRLW, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020.  
 [(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842)</span>  
