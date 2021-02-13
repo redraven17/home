@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 
-__Pull List for 2020__
+__Pull List for 2021__
 ======  
 
 Marvel-  
@@ -23,7 +23,8 @@ DC-
 3. [Injustice: Year One](https://www.dccomics.com/graphic-novels/injustice-gods-among-us-year-one-%E2%80%93-the-complete-collection)  
 
 
-__Reading List for 2020__
+
+__Reading List for 2021__
 ======  
 
 1. [Halo: Oblivion](https://www.halopedia.org/Halo:_Oblivion)  
