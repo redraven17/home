@@ -46,6 +46,10 @@
 
   img {
     width: 100%;
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     
   }
 }
 
@@ -84,8 +88,9 @@
 
   img {
     max-width: 175px;
-    box-shadow: 0px 0px 40px 20px rgba(0, 0, 0, 0.05); 
-    border-radius: 15px;//50%;
+    border: 0px;
+    border-radius: 15px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
     @include breakpoint($large) {
       padding: 0px;
