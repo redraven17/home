@@ -19,12 +19,12 @@ __Publications__
 &nbsp;&nbsp;<span style="font-size:14px"> DRLW, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020.  
 &nbsp;&nbsp;[(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690)</span>  
 
-<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/caps.PNG" />&nbsp;&nbsp; _Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory_  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/caps.PNG" />&nbsp;&nbsp; _Continuous Sign Language Recognition from Wearable IMUs using CapsNet and Game Theory_  
 &nbsp;&nbsp;**K Suri**, R Gupta  
 &nbsp;&nbsp;<span style="font-size:14px"> Computers And Electrical Engineering, Elsevier, Vol. 78, 2019.  
 &nbsp;&nbsp;[(arXiv)](https://arxiv.org/abs/2005.00409) [(doi)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author) [(poster)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster3.pdf)</span>  
 
-<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/ms.PNG" />&nbsp;&nbsp; _Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture_  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/ms.PNG" />&nbsp;&nbsp; _Transfer Learning for sEMG-based Hand Gesture Classification using Master-Slave Nets_  
 &nbsp;&nbsp;**K Suri**, R Gupta  
 &nbsp;&nbsp;<span style="font-size:14px"> 3rd International Conference on Communication and Computational Intelligence (IC3I), IEEE, 2018.  
 &nbsp;&nbsp;[(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)</span>  
