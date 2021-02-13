@@ -9,38 +9,52 @@ author_profile: false
 __Publications__
 ======  
 
-<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/emix.PNG" />&nbsp; _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
-&nbsp;**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
-&nbsp;<span style="font-size:14px"> DRLW, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020.  
-&nbsp;[(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842)</span>  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/emix.PNG" />&nbsp;&nbsp; _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
+&nbsp;&nbsp;**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
+&nbsp;&nbsp;<span style="font-size:14px"> DRLW, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020.  
+&nbsp;&nbsp;[(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842)</span>  
 
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690)   
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/esac.PNG" />&nbsp;&nbsp; _Maximum Mutation Reinforcement Learning for Scalable Control_  
+&nbsp;&nbsp;**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
+&nbsp;&nbsp;<span style="font-size:14px"> DRLW, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020.  
+&nbsp;&nbsp;[(website)](https://karush17.github.io/esac-web/) [(arXiv)](https://arxiv.org/abs/2007.13690)</span>  
 
-* Karush Suri, Rinki Gupta, _"Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory"_, Computers And Electrical Engineering, Elsevier, Vol. 78, 2019. [(arXiv)](https://arxiv.org/abs/2005.00409) [(doi)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author)
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/caps.PNG" />&nbsp;&nbsp; _Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory_  
+&nbsp;&nbsp;**K Suri**, R Gupta  
+&nbsp;&nbsp;<span style="font-size:14px"> Computers And Electrical Engineering, Elsevier, Vol. 78, 2019.  
+&nbsp;&nbsp;[(arXiv)](https://arxiv.org/abs/2005.00409) [(doi)](https://www.sciencedirect.com/science/article/pii/S0045790619301508?dgcid=author) [(poster)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster3.pdf)</span>  
 
-* Karush Suri, Rinki Gupta, _"Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture"_, 3rd International Conference on Communication and Computational Intelligence (IC3I) 2018, IEEE. [(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/ms.PNG" />&nbsp;&nbsp; _Transfer Learning for sEMG-based Hand Gesture Classification using Deep Learning in a Master- Slave Architecture_  
+&nbsp;&nbsp;**K Suri**, R Gupta  
+&nbsp;&nbsp;<span style="font-size:14px"> 3rd International Conference on Communication and Computational Intelligence (IC3I), IEEE, 2018.  
+&nbsp;&nbsp;[(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)</span>  
+
 
 __Technical Reviews__
 ======  
-* Karush Suri, _"On Variational Generalization Bounds for Unsupervised Visual Recognition"_, Technical Report, 2020. [(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/VariationalBounds.pdf) [(code)](https://github.com/karush17/ECE1504-Project/tree/master/supplementary/code/ID)  
 
-* Karush Suri, _"On Cooperation in Multi-Agent Reinforcement Learning"_, Technical Report, 2020. [(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/report.pdf) [(code)](https://github.com/karush17/ECE1657-Project/tree/master/code)  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/var.PNG" />&nbsp;&nbsp; _On Variational Generalization Bounds for Unsupervised Visual Recognition_  
+&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;<span style="font-size:14px"> Technical Report, 2020.  
+&nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/VariationalBounds.pdf) [(code)](https://github.com/karush17/ECE1504-Project/tree/master/supplementary/code/ID)</span>  
 
-* Karush Suri, Shashank Saurav, _"Attentive Hierarchical Reinforcement Learning for Stock Order Executions"_, Technical Report, 2020. [(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/coop.PNG" />&nbsp;&nbsp; _On Cooperation in Multi-Agent Reinforcement Learning_  
+&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;<span style="font-size:14px"> Technical Report, 2020.  
+&nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/report.pdf) [(code)](https://github.com/karush17/ECE1657-Project/tree/master/code)</span>  
 
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/hier.PNG" />&nbsp;&nbsp; _Attentive Hierarchical Reinforcement Learning for Stock Order Executions_  
+&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;<span style="font-size:14px"> Technical Report, 2020.  
+&nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)</span>  
 
-__Posters__
-======  
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Energy-based Surprise Minimization for Multi-agent Value Factorization"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/18.pdf)   
-
-* Karush Suri, Xiao Qi Shi, Konstantinos N. Plataniotis, Yuri A. Lawryshyn, _"Maximum Mutation Reinforcement Learning for Scalable Control"_, Deep Reinforcement Learning Workshop, $34^{th}$ Conference on Neural Information Processing Systems (NeurIPS) 2020. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/16.pdf)   
-
-* Karush Suri, Rinki Gupta, _"Continuous Sign Language Recognition from Wearable IMUs using Deep Capsule Networks and Game Theory"_, Annual Project and Posters Technical Competition (APPTeC) 2019. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster3.pdf)  
-
-* Karush Suri, Rinki Gupta, _"Activity Detection from Wearable Electromyogram Sensors using Hidden Markov Model"_, Annual Project and Posters Technical Competition (APPTeC) 2018. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster1.pdf)  
-
-* Karush Suri, Rinki Gupta, _"Classification of Hand Gestures from Wearable IMUs using Deep Neural Network"_, Annual Project and Posters Technical Competition (APPTeC) 2018. [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Poster2.pdf)  
 
 __Thesis__
 ======  
-* Karush Suri, _"Application of Deep Learning and Game Theory for Sign Language Recognition using Wearable Sensors"_, Undergraduate Thesis [(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Bachelors.pdf)
+
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/und_thesis.PNG" />&nbsp;&nbsp; _Application of Deep Learning and Game Theory for Sign Language Recognition using Wearable Sensors_  
+&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;<span style="font-size:14px"> Undergraduate Thesis, 2019.  
+&nbsp;&nbsp;[(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Bachelors.pdf)</span>  
+
+
