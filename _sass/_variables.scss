@@ -15,10 +15,10 @@ $indent-var                 : 1.3em;
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, serif; //sans-
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : Georgia, Times, serif;//Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
+$sans-serif-narrow          : $serif;//sans-
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, serif;//sans-
 
 /* serif typefaces */
