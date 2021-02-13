@@ -6,34 +6,27 @@ author_profile: false
 ---
 
 
-__Pull List for 2021__
+__Marvel__
 ======  
 
-Marvel-  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://i.annihil.us/u/prod/marvel/i/mg/9/90/5e53eb17659ba/clean.jpg" />&nbsp;&nbsp; _[Strange Academy](https://www.marvel.com/comics/series/28177/strange_academy_2020_-_present)_  
 
-1. [Strange Academy](https://www.marvel.com/comics/series/28177/strange_academy_2020_-_present)  
-2. [Guardians of the Galaxy](https://www.marvel.com/comics/series/28042/guardians_of_the_galaxy_2020_-_present)  
-3. [Daredevil](https://www.marvel.com/comics/series/26080/daredevil_2019_-_present)  
-4. [Iron Fist: Heart of the Dragon](https://www.marvel.com/comics/series/29650/iron_fist_heart_of_the_dragon_2021_-_present)  
-5. [King in Black](https://www.marvel.com/comics/series/30150/king_in_black_2020_-_present)  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://images-na.ssl-images-amazon.com/images/I/81r0yEZhnxL.jpg" />&nbsp;&nbsp; _[Guardians of the Galaxy](https://www.marvel.com/comics/series/28042/guardians_of_the_galaxy_2020_-_present)_  
 
-DC-  
-1. [Future State: Dark Detective](https://www.dccomics.com/comics?seriesid=467085#browse)  
-2. [Future State: Batman Superman](https://www.dccomics.com/comics?seriesid=467338#browse)  
-3. [Injustice: Year One](https://www.dccomics.com/graphic-novels/injustice-gods-among-us-year-one-%E2%80%93-the-complete-collection)  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://i.annihil.us/u/prod/marvel/i/mg/f/70/5c5354ed4fbec/standard_incredible.jpg" />&nbsp;&nbsp; _[Daredevil](https://www.marvel.com/comics/series/26080/daredevil_2019_-_present)_  
+
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://i.annihil.us/u/prod/marvel/i/mg/8/03/6007549b403f9/standard_incredible.jpg" />&nbsp;&nbsp; _[Iron Fist: Heart of the Dragon](https://www.marvel.com/comics/series/29650/iron_fist_heart_of_the_dragon_2021_-_present)_  
+
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://i.annihil.us/u/prod/marvel/i/mg/d/20/5ff8cf367e5d1/clean.jpg" />&nbsp;&nbsp; _[King in Black](https://www.marvel.com/comics/series/30150/king_in_black_2020_-_present)_  
 
 
-
-__Reading List for 2021__
+__DC__
 ======  
 
-1. [Halo: Oblivion](https://www.halopedia.org/Halo:_Oblivion)  
-2. [The Sentinel](https://www.goodreads.com/book/show/51053653-the-sentinel)  
-3. [The Bourne Evolution](https://www.goodreads.com/book/show/50644827-the-bourne-evolution)  
-4. [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep)  
-5. [Halo: Shadows of Reach](https://www.halopedia.org/Halo:_Shadows_of_Reach)  
-6. [A Promised Land](https://www.nytimes.com/2020/11/12/books/review/barack-obama-a-promised-land.html)  
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://www.dccomics.com/sites/default/files/styles/comics320x485/public/comic-covers/2020/12/FS_DDET_01_300-001_HD_5fe10b667f4cc5.42985369.jpg?itok=WTGhm7-Y" />&nbsp;&nbsp; _[Future State: Dark Detective](https://www.dccomics.com/comics?seriesid=467085#browse)_  
 
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://www.dccomics.com/sites/default/files/styles/comics320x485/public/comic-covers/2021/01/FS_BMSM_01_300-001_HD_5ffe30b097caf2.00172395.jpg?itok=vK0Wk_zt" />&nbsp;&nbsp; _[Future State: Batman Superman](https://www.dccomics.com/comics?seriesid=467338#browse)_  
 
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://www.dccomics.com/sites/default/files/styles/covers192x291/public/gn-covers/2015/11/INJUST_YEAR_ONE_complete_5644f47b179c20.01670412.jpg?itok=RietG7zI" />&nbsp;&nbsp; _[Injustice: Year One](https://www.dccomics.com/graphic-novels/injustice-gods-among-us-year-one-%E2%80%93-the-complete-collection)_  
 
 
