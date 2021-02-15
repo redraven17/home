@@ -5,7 +5,7 @@ permalink: /pull/
 author_profile: false
 ---
 
-_"Faith is my sword. Truth is my shield. Knowledge my armor."_ - Doctor Strange
+<center><i>"Faith is my sword. Truth is my shield. Knowledge my armor."</i> - Doctor Strange</center>
 
 __Marvel__
 ======  
