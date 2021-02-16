@@ -44,7 +44,7 @@ __Technical Reviews__
 &nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/report.pdf) [(code)](https://github.com/karush17/ECE1657-Project/tree/master/code)</span>  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/hier.PNG" />&nbsp;&nbsp; _Attentive Hierarchical Reinforcement Learning for Stock Order Executions_  
-&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;**K Suri**, S Saurav  
 &nbsp;&nbsp;<span style="font-size:14px"> Technical Report, 2020.  
 &nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)</span>  
 
@@ -52,9 +52,14 @@ __Technical Reviews__
 __Thesis__
 ======  
 
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/uoft.png" />&nbsp;&nbsp; _Deep Hierarchical Reinforcement Learning_  
+&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;<span style="font-size:14px"> University of Toronto, M.A.Sc Thesis, 2021.  
+&nbsp;&nbsp;[(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Masters.pdf)</span>  
+
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/und_thesis.PNG" />&nbsp;&nbsp; _Application of Deep Learning and Game Theory for Sign Language Recognition using Wearable Sensors_  
 &nbsp;&nbsp;**K Suri**  
-&nbsp;&nbsp;<span style="font-size:14px"> Undergraduate Thesis, 2019.  
+&nbsp;&nbsp;<span style="font-size:14px"> Amity University, B.Tech Thesis, 2019.  
 &nbsp;&nbsp;[(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Bachelors.pdf)</span>  
 
 
