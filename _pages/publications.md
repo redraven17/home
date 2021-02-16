@@ -49,7 +49,7 @@ __Technical Reviews__
 &nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)</span>  
 
 
-__Thesis__
+__Theses__
 ======  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/uoft.png" />&nbsp;&nbsp; _Deep Hierarchical Reinforcement Learning_  
