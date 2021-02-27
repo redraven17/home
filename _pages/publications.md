@@ -56,7 +56,7 @@ __Theses__
 &nbsp;&nbsp;**K Suri**  
 &nbsp;&nbsp;<span style="font-size:14px"> University of Toronto, M.A.Sc Thesis, 2021.  
 <!-- &nbsp;&nbsp;[(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Masters.pdf)</span>   -->
-&nbsp;&nbsp;(in preparation)</span>  
+&nbsp;&nbsp;[(link)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/Masters.pdf)</span>  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/und_thesis.PNG" />&nbsp;&nbsp; _Application of Deep Learning and Game Theory for Sign Language Recognition using Wearable Sensors_  
 &nbsp;&nbsp;**K Suri**  
