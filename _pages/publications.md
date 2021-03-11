@@ -30,22 +30,22 @@ __Publications__
 &nbsp;&nbsp;[(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)</span>  
 
 
-__Technical Reviews__
+__Independent Studies__
 ======  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/var.PNG" />&nbsp;&nbsp; _On Variational Generalization Bounds for Unsupervised Visual Recognition_  
 &nbsp;&nbsp;**K Suri**  
-&nbsp;&nbsp;<span style="font-size:14px">Technical Report, 2020.  
+&nbsp;&nbsp;<span style="font-size:14px">Report, 2020.  
 &nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/VariationalBounds.pdf) [(code)](https://github.com/karush17/ECE1504-Project/tree/master/supplementary/code/ID)</span>  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/coop.PNG" />&nbsp;&nbsp; _On Cooperation in Multi-Agent Reinforcement Learning_  
 &nbsp;&nbsp;**K Suri**  
-&nbsp;&nbsp;<span style="font-size:14px">Technical Report, 2020.  
+&nbsp;&nbsp;<span style="font-size:14px">Report, 2020.  
 &nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/report.pdf) [(code)](https://github.com/karush17/ECE1657-Project/tree/master/code)</span>  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/hier.PNG" />&nbsp;&nbsp; _Attentive Hierarchical Reinforcement Learning for Stock Order Executions_  
 &nbsp;&nbsp;**K Suri**, S Saurav  
-&nbsp;&nbsp;<span style="font-size:14px">Technical Report, 2020.  
+&nbsp;&nbsp;<span style="font-size:14px">Report, 2020.  
 &nbsp;&nbsp;[(pdf)](https://nbviewer.jupyter.org/github/karush17/karush17.github.io/blob/master/_publications/HRL-%20Karush.pdf) [(code)](https://github.com/karush17/Hierarchical-Attention-Reinforcement-Learning)</span>  
 
 
