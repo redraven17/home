@@ -26,7 +26,7 @@ __Publications__
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/ms.PNG" />&nbsp;&nbsp; _Transfer Learning for sEMG-based Hand Gesture Classification using Master-Slave Nets_  
 &nbsp;&nbsp;**K Suri**, R Gupta  
-&nbsp;&nbsp;<span style="font-size:14px">IEEE IC3I 2018.**(oral)**  
+&nbsp;&nbsp;<span style="font-size:14px">IEEE IC3I 2018. **(oral)**  
 &nbsp;&nbsp;[(arXiv)](https://arxiv.org/abs/2005.03460) [(doi)](https://doi.org/10.1109/IC3I44769.2018.9007304)</span>  
 
 
