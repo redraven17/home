@@ -39,7 +39,7 @@ author_profile: false
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
 
-<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599244453l/51053653.jpg" />
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://upload.wikimedia.org/wikipedia/en/7/7e/The_Sentinel_Twitter_Screenshot.png" />
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
 &nbsp;&nbsp; _[The Sentinel](https://www.goodreads.com/book/show/51053653-the-sentinel)_  
@@ -64,5 +64,12 @@ author_profile: false
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
 &nbsp;&nbsp; _[A Promised Land](https://www.goodreads.com/book/show/55361205-a-promised-land)_  
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:125px" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596553679l/53914938.jpg" />
+&nbsp;&nbsp;  
+&nbsp;&nbsp;  
+&nbsp;&nbsp; _[The Rose Code](https://www.goodreads.com/book/show/53914938-the-rose-code)_  
 &nbsp;&nbsp;  
 &nbsp;&nbsp;  
