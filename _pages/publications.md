@@ -10,9 +10,9 @@ __Publications__
 ======  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/emix.PNG" />&nbsp;&nbsp; _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
-&nbsp;&nbsp;**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
-&nbsp;&nbsp;<span style="font-size:14px">DRLW, NeurIPS 2020.  
-&nbsp;&nbsp;[(website)](https://karush17.github.io/emix-web/) [(arXiv)](https://arxiv.org/abs/2009.09842)</span>  
+&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;<span style="font-size:14px">In Preparation.  
+&nbsp;&nbsp;</span>  
 
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/esac.PNG" />&nbsp;&nbsp; _Maximum Mutation Reinforcement Learning for Scalable Control_  
 &nbsp;&nbsp;**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
