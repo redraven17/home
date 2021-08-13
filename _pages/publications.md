@@ -9,11 +9,21 @@ author_profile: false
 __Publications__
 ======  
 
-<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/emix.PNG" />&nbsp;&nbsp; _Energy-based Surprise Minimization for Multi-agent Value Factorization_  
-&nbsp;&nbsp;**K Suri**  
+<!-- <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/safe.PNG" />&nbsp;&nbsp; _On Safe Policy Optimization with Energy-based Models_  
+&nbsp;&nbsp;**K Suri**, F Shkurti  
 &nbsp;&nbsp;<span style="font-size:14px">In Preparation.  
 &nbsp;&nbsp;</span>  
 
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/cql.PNG" />&nbsp;&nbsp; _When Does Overconservatism Hurt Offline Learning?_  
+&nbsp;&nbsp;**K Suri**, F Shkurti  
+&nbsp;&nbsp;<span style="font-size:14px">Under Review.  
+&nbsp;&nbsp;</span>  
+
+<img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/emix.PNG" />&nbsp;&nbsp; _Surprise Minimizing Multi-Agent Learning with Energy-based Models_  
+&nbsp;&nbsp;**K Suri**  
+&nbsp;&nbsp;<span style="font-size:14px">Under Review.  
+&nbsp;&nbsp;</span>  
+ -->
 <img style="float:left;border:0px;border-radius:15px;box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.19);width:100px;height:100px" src="/images/esac.PNG" />&nbsp;&nbsp; _Maximum Mutation Reinforcement Learning for Scalable Control_  
 &nbsp;&nbsp;**K Suri**, X Shi, K Plataniotis, Y Lawryshyn  
 &nbsp;&nbsp;<span style="font-size:14px">DRLW, NeurIPS 2020.  
